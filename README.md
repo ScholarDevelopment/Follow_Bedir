@@ -3,9 +3,13 @@
 ## Contents
 
 - [Personal Summary](#personal-summary)
-- [CV Development](#cv-development)
+- [CV](#cv)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [Blogposts](#blogposts)
+- [Personal Development](#personal-development)
+- [Online Course](#online-course)
+- [Textbook](#textbook)
 
 
 ## Personal Summary
@@ -18,7 +22,7 @@
 
 > Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
 
-## CV Development
+## CV
 
 > Your CV is one of the most important key elements to prepare you for after-school. 
 
