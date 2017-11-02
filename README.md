@@ -70,13 +70,16 @@ __Upcoming:__
 - Name
 -
 ## Personal Development
+> Add postcast here.
+
 
 ## Networking
 
 Goal: Meet 2 new people in relevant area.
 
 ## Online Course
+> TBD
 
 ## Textbook
-
+> TBD
 >> Will continue adding sections and content
