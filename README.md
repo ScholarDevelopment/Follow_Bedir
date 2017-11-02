@@ -11,6 +11,7 @@
 - [Networking](#networking)
 - [Online Course](#online-course)
 - [Textbook](#textbook)
+- [Project](#projects)
 
 
 ## Personal Summary
@@ -82,4 +83,11 @@ Goal: Meet 2 new people in relevant area.
 
 ## Textbook
 > TBD
+
+## Projects
+
+- Number Theory and Logic Study Guide
+- DataScience Lab Projects
+- Add Your Projects Here
+
 >> Will continue adding sections and content
