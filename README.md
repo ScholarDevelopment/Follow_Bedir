@@ -38,6 +38,9 @@ __Algorithms:__
 - [Algorithms_and_DS](https://github.com/BedirT/Algorithms_and_DS)
 - [AlgorithmsBook]()*PRIVATE*
 - [Data-Structures-with-Java](https://github.com/BedirT/Data-Structures-with-Java)
+- [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation)
+- [ICPC-Question-Solving](https://github.com/NAU-ACM/ICPC-Question-Solving)
+- [Competitive-Programming](https://github.com/NAU-ACM/Competitive-Programming)
 
 __Data Science:__
 - [DataScienceLab_Practices](https://github.com/BedirT/DataScienceLab_Practices)
