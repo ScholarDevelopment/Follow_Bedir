@@ -8,6 +8,7 @@
 - [GitHub Usage](#github-usage)
 - [Blogposts](#blogposts)
 - [Personal Development](#personal-development)
+- [Networking](#networking)
 - [Online Course](#online-course)
 - [Textbook](#textbook)
 
@@ -70,6 +71,9 @@ __Upcoming:__
 -
 ## Personal Development
 
+## Networking
+
+Goal: Meet 2 new people in relevant area.
 
 ## Online Course
 
