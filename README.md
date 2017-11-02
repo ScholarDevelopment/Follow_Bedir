@@ -49,6 +49,12 @@
 > In the Job section you should select your interest so the job offers and ads will come from those interests
 
 ## GitHub Usage
+__Algorithms:__
+- [Repo 1 about Algorithms ](#link)
+- [Repo 2 about Algorithms ](#link)
+__Data Science:__
+- ...
+
 
 > Add here the hierarchy of your GitHub Repositories.
 
