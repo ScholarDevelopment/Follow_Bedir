@@ -52,6 +52,21 @@
 
 > Add here the hierarchy of your GitHub Repositories.
 
+## Blogposts
+> Update Here:
 
+__Published:__
+- [Name](#link)
+-
+
+__Upcoming:__
+- Name
+-
+## Personal Development
+
+
+## Online Course
+
+## Textbook
 
 >> Will continue adding sections and content
